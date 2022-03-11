@@ -1,0 +1,24 @@
+{
+  "name": "emp-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Soucy/emp-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Soucy/emp-tracker/issues"
+  },
+  "homepage": "https://github.com/Alex-Soucy/emp-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "inquirer": "^8.2.1",
+    "mysql2": "^2.3.3"
+  }
+}

@@ -5,7 +5,7 @@ const connectionPromise = mysql.createConnection({
     // Your mysql username
     user: "root",
     //Your mysql password
-    password: "B!ank22!3",
+    password: "test",
     database: "employees",
 },
     console.log('You are connected to the employees database.')
